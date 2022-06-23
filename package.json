@@ -1,0 +1,16 @@
+{
+  "name": "vite-build-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "vite": "3.0.0-beta.1"
+  }
+}
